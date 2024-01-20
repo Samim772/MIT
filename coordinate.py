@@ -1,3 +1,4 @@
+# this code is for displaying graph using python code.
 class Coordinate(object):
     def __init__(self,x,y):
         self.x = x
